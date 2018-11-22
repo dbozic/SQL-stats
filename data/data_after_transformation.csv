@@ -1,0 +1,7 @@
+physician_last_name,patients_per_physician,percentage_of_patients,no_clients,avg_patient_age,patient_age,oldest_patient_age,youngest_patient_age,avg_patient_height,patient_height,tallest_patient_height,shortest_patient_height,avg_patient_weight,patient_weight,heaviest_patient_weight,lightest_patient_weight
+Smith,16,20.8,More than average,40.2,Younger than average,62,19,68.9,Taller than average,76,60,162.3,Lighter than average,220,108
+Honeydew,15,19.5,More than average,43.3,Older than average,69,24,68.5,Taller than average,76,61,161.4,Lighter than average,208,102
+Goldberg,12,15.6,Less than average,38.3,Younger than average,63,18,68.5,Taller than average,76,61,176,Heavier than average,219,111
+Chase,12,15.6,Less than average,46.1,Older than average,60,22,67.3,Shorter than average,74,61,170.7,Heavier than average,218,115
+Payne,12,15.6,Less than average,36.3,Younger than average,61,19,68.5,Taller than average,76,61,166.3,Lighter than average,209,129
+Yamamoto,10,13,Less than average,46.9,Older than average,67,29,67.5,Shorter than average,74,60,161.9,Lighter than average,220,107

@@ -1,0 +1,9 @@
+school,teacher,no_writing_600,no_verbal_600,no_math_600,highest_score,lowest_score,avg_hours_studied,hrs_studied_relative
+Petersville HS,Brown,3,2,6,2045,950,110.24,More than average
+Petersville HS,Davis,3,3,4,2073,1118,100.36,Less than average
+Petersville HS,Perry,13,9,7,2047,1019,86.64,Less than average
+St. John's,Rajaram,6,5,9,2262,915,106.7,More than average
+St. John's,Tran,4,5,10,2087,1205,103.15,More than average
+St. John's,Williams,3,6,7,1919,938,82.25,Less than average
+Washington HS,Frederickson,1,4,5,1971,902,135.42,More than average
+Washington HS,Spellman,4,8,6,1872,892,92.35,Less than average

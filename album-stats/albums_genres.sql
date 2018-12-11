@@ -46,6 +46,6 @@ WITH albums_in_multiple_genres
 SELECT name, 
        ROUND(AVG(no_genres), 2) AS average_no_genres, 
        MAX(no_genres)           AS max_no_genres 
-FROM   ordered_genres_ 
+FROM   ordered_genres 
 GROUP  BY name 
 ORDER  BY average_no_genres ASC; 

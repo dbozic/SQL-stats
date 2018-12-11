@@ -1,0 +1,8 @@
+
+table: genres
+
+|-- id --| -- genre -- |
+
+table: genres_music
+
+|-- id --|-- album_id -- | -- genre_id --|

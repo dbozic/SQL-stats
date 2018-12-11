@@ -1,7 +1,7 @@
 
 table: genres
 
-|-- id --| -- genre -- |
+|-- id --| -- name -- |
 
 table: genres_music
 
